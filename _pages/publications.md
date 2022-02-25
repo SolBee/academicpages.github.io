@@ -14,7 +14,13 @@ author_profile: true
 
 **[Experience]**
 ======
+ * 
+ * 
 
+**[Projects]**
+======
+ * 
+ * 
 
 **[International Journal]**
 ======
@@ -69,5 +75,11 @@ author_profile: true
 
 
 
-
+**[References]**
+======
+ * Advisor Professor
+   Prof. Eui-Jik Kim
+   School of Software, Hallym University
+   E-mail: ejkim32@hallym.ac.kr
+   Tel.: +82-33-248-2333
 
