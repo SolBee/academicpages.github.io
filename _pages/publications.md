@@ -11,10 +11,16 @@ author_profile: true
  * Master-Ph.D. Integrated Course, School of Software, Hallym University (2018.03-Present)
  * Bachelor of Engineering, School of Software, Hallym University (2014.03-2018.02)
 
-**[Experience]**
+**[Work Experience]**
 ======
- * 
- * 
+* **Assistant Researcher**
+  * KETI(Korea Electronics Technology Institute)
+  * 2018.09-2019.08
+  
+**[Skills]**
+======
+* Computing Platform: Windows/Ubuntu
+* Simulation Software: MATLAB, Python, C++
 
 **[Projects]**
 ======
