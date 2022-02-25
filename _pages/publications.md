@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+**[Sol-Bee Lee]**
+======
+ * Convergence Information and Communicatoins Laboratory (CIC Lab.)
+ * School of Software, Hallym University
+ * Phone: +82-10-4142-7476
+ * E-mail: thfqla3535@hallym.ac.kr / sorub3535@gmail.com
 
 **[Education]**
 ======
@@ -36,12 +42,13 @@ author_profile: true
 
 **[International Journal]**
 ======
-1. **Sol-Bee Lee**, Jung-Hyok Kwon, and Eui-Jik Kim*, "Residual Energy Estimation-Based MAC Protocol for Wireless Powered Sensor Networks," _Sensors_, vol. 21 no. 22, pp. 7617:1-21, Nov. 2021.
+1. **Sol-Bee Lee**, Jung-Hyok Kwon, and Eui-Jik Kim*, "Residual Energy Estimation-Based MAC Protocol for Wireless Powered Sensor Networks," _Sensors_, vol. 21 no. 22, pp. 7617:1-7617:21, Nov. 2021.
 1. **Sol-Bee Lee**, Jung-Hyok Kwon, Eui-Jik Kim*, and Jaehoon Park*, "Implementation of Integrated Electronic Health Record and Mobile Personal Health Record Datasets for Improving Healthcare Services," _Sensors and Materials_, vol. 30, no. 8, pp. 1885-1890, Aug. 2018.
 1. Minki Cha, Jung-Hyok Kwon, **Sol-Bee Lee**, Jaehoon Park, Sungkwan Youm, and Eui-Jik Kim*, "Integrated Framework for Keyword-based Text Data Collection and Analysis," _Sensors and Materials_, vol. 30, no. 3, pp. 439-445, Feb. 2018.
 1. Sungmo Kim, Jung-Hyok Kwon, **Sol-Bee Lee**, Jaehoon Park, Dongwan Kim*, and Eui-Jik Kim*, "Energy-efficient Resource Directory Update Scheme for Constrained Application Protocol in Internet of Things," _Sensors and Materials_, vol. 30, no. 3, pp. 431-437, Feb. 2018.
 1. Jung-Hyok Kwon, **Sol-Bee Lee**, and Eui-Jik Kim*, "Group-based concurrent transmissions for spatial efficiency in IEEE 802.15. 7 visible light communications," _Applied Mathematical Modelling_, vol. 53, pp. 709-721, Jan. 2018.
 1. Jung-Hyok Kwon, **Sol-Bee Lee**, Jaehoon Park, Kyu-Sung Hwang, Yongseok Lim, and Eui-Jik Kim*, "Adaptive Resource Observation for Congestion Alleviation using Constrained Application Protocol," _International Journal of Engineering and Technology (UAE)_, vol. 7, no. 4.38, pp. 885-887, 2018.
+1. Jung-Hyok Kwon, **Sol-Bee Lee**, Jaehoon Park, and Eui-Jik Kim*, "Association Rule-based Predictive Model for Machine Failure in Industrial Internet of Things," _Journal of Physics: Conference Series_, vol. 892, No. 1, pp. 012008:1-012008:7, May 2017. 
 
 **[International Conference]**
 ======
@@ -56,7 +63,14 @@ author_profile: true
 1. Jung-Hyok Kwon, **Sol-Bee Lee**, Ho-Young Kim, and Eui-Jik Kim, "Effects of Dataset Size on Human Activity Recognition in Healthcare Internet of Things," in _Proc. IEEE International Conference on Applied System Innovation (ICASI) 2018_, Tokyo, Japan, Apr. 2018.
 1. **Sol-Bee Lee**, Jung-Hyok Kwon, Ho-Young Kim, and Eui-Jik Kim, "Enhanced CSMA/CA Algorithm for IEEE 802.15.4e TSCH Behavior Mode in Industrial Internet of Things," in _Proc. IEEE International Conference on Applied System Innovation (ICASI) 2018_, Tokyo, Japan, Apr. 2018.
 1. Jung-Hyok Kwon, **Sol-Bee Lee**, Ho-Young Kim, and Eui-Jik Kim, "IEEE 802.15.4 DSME Multi-Superframe Configuration for Industrial Internet of Things Monitoring Services," in _Proc. IEEE International Conference on Applied System Innovation (ICASI) 2018_, Tokyo, Japan, Apr. 2018.
-1. Ho-Young Kim, Jung-Hyok Kwon, Sol-Bee Lee, and Eui-Jik Kim, "Adaptive Data-collecting Time Adjustment Mechanism of UAV Sink in Large-scale Wireless Sensor Networks," in _Proc. IEEE International Conference on Applied System Innovation (ICASI) 2018_, Tokyo, Japan, Apr. 2018.
+1. Ho-Young Kim, Jung-Hyok Kwon, **Sol-Bee Lee**, and Eui-Jik Kim, "Adaptive Data-collecting Time Adjustment Mechanism of UAV Sink in Large-scale Wireless Sensor Networks," in _Proc. IEEE International Conference on Applied System Innovation (ICASI) 2018_, Tokyo, Japan, Apr. 2018.
+1. Jung-Hyok Kwon,	Sungmo Kim, **Sol-Bee Lee**, Hoyoung Kim, and Eui-Jik Kim, "Buffer Overflow Estimation for CoAP Observing Period Adaptation," in _Proc. International Conference on Advanced Manufacturing and Design Engineering (CAMDE) 2017_, Ho Chi Minh City, Vietnam, Nov. 2017.
+1. **Sol-Bee Lee**,	Jung-Hyok Kwon and Eui-Jik Kim, "Integrated Dataset-based Outlier Detection using Cluster Centroid for Healthcare System," in _Proc. International Conference on of Engineering and Technology Innovation (IMETI) 2017_, Hualien, Taiwan, Oct. 2017.
+1. Jung-Hyok Kwon,	Minki Cha, **Sol-Bee Lee**, Ho-Young Kim, and Eui-Jik Kim, "Load Balanced-Trickle Timer in Routing Protocol for Low Power and Lossy Network," in _Proc. International Conference on Convergence Technology (ICCT) 2017_, Hokkaido, Japan, Jul. 2017.
+1. **Sol-Bee Lee**,	Jung-Hyok Kwon, Hwi-Ho Lee, Ho-Young Kim, and Eui-Jik Kim, "Safety Management Model based on Predictive Association Rules for Industrial Internet of Things," in _Proc. International Conference on Convergence Technology (ICCT) 2017_, Hokkaido, Japan, Jul. 2017.
+1. Jung-Hyok Kwon, Ha-Ra Oh, **Sol-Bee Lee**, Wonyong An, and Eui-Jik Kim, "MAC parameter configurations for Wi-Fi backscatter uplink communication," in _Proc. International Conference on of Engineering and Technology Innovation (IMETI) 2016_, Taichung, Taiwan, Oct. 2016.
+1. Sungmo Kim, Jung-Hyok Kwon, Hwi-Ho Lee, **Sol-Bee Lee**, and Eui-Jik Kim, "Enhanced Dynamic Observing Period Adjustment for CoAP-based Monitoring System," in _Proc. International Conference on Convergence Technology (ICCT) 2016_, Jeju, Korea, Jun. 2016.
+
 
 **[Domestic Journal]**
 ======
@@ -72,6 +86,9 @@ author_profile: true
 1. 이상우, **이솔비**, 고하나, 이연희, 권정혁, 김의직, "전자파 인체영향 관련 연구논문 분류를 위한 Doc2Vec 및 t-SNE 기반 군집분석 연구," 한국전자파학회 하계종합학술대회, 2019년 8월.
 1. 이상우, 권정혁, **이솔비**, 김호영, 김의직, "텍스트 마이닝을 활용한 전자파 인체유해성 관련 연구논문의노출원 및 실험결과 자동추출," 한국전자파학회 하계종합학술대회, 2018년 8월.
 1. **이솔비**, 임용석, 김의직, "Contiki-NG 기반 IEEE 802.15.4 TSCH 처리량 분석," 한국정보통신학회 추계학술대회, 2018년 06월.
+1. 김호영,	**이솔비**, 정구현, 이휘호, 권정혁, 김의직, "무인항공기를 활용한 공사현장 안전관리 시스템," 한국사물인터넷학회 드론 종합학술대회, 2017년 11월.
+1. 배준희,	김호영, **이솔비**, 이휘호, 권정혁, 김의직, "건설 현장에서의 재난 안전관리용 드론 기술 조사," 한국사물인터넷학회 드론 종합학술대회, 2017년 11월.
+1. **이솔비**,	권정혁, 이휘호, 차민기, 김성모, 김호영, 김의직, "공사현장의 안전사고 예방을 위한 연관규칙 분석 기반 사고 예측모델," 한국통신학회 하계종합학술발표회, 2017년 6월.
 
 **[Patents]**
 ======
@@ -84,8 +101,6 @@ author_profile: true
 1. 김의직, 권정혁, **이솔비**, 김호영, "무선 센서 네트워크에서 무인기를 이용한 데이터 수집 방법 및 이 방법이 적용된 기기," 출원번호: 10-2017-0149030 (2017.11.09), **등록번호: 10-1931803 (2018.12.17)**
 1. 김의직, **이솔비**, 권정혁, "산업용 사물 인터넷에 기반한 공사 현장 안전을 위한 사고 예측 시스템 및 방법," 출원번호: 10-2017-0142473 (2017.10.30), **등록번호: 10-1916411 (2018.11.01)**
 1. 김의직, 권정혁, 김성모, 오하라, **이솔비**, 안원용, "CoAP 서버의 관찰 주기 조절 시스템 및 방법," 출원번호: 10-2016-0114614 (2016.09.06), **등록번호: 10-1825210 (2018.01.29)**
-
-
 
 **[References]**
 ======
