@@ -9,7 +9,7 @@ author_profile: true
 **[Education]**
 ======
  * Master-Ph.D. Integrated Course, School of Software, Hallym University (2018.03-Present)
- * Bachelor of Engineering, School of Software, Hallym University (2014.03-2018.02)
+ * Bachelor of Engineering, Department of Convergence Software, Hallym University (2014.03-2018.02)
 
 **[Work Experience]**
 ======
@@ -17,11 +17,18 @@ author_profile: true
   * KETI(Korea Electronics Technology Institute)
   * 2018.09-2019.08
   
-**[Skills]**
+**[Technical Skills]**
 ======
-* Computing Platform: Windows/Ubuntu
-* Simulation Software: MATLAB, Python, C++
+* Computing Platform: Windows and Ubuntu.
+* Simulation Software: MATLAB, Python, and C++.
+* Programming Languages: Python, Java, and C++.
+* Language: Korean and English
 
+**[Honors and Awards]**
+======
+ * 한림대학교 개교35주년 학교를 빛낸 학생 표창 - 연구부문 (2017.05)
+ * National Science and Engineering Undergraduate Scholarship by the Korea Student Aid Foundation (KOSAF) (2016-2017)
+   
 **[Projects]**
 ======
  * 
