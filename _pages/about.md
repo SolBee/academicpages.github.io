@@ -9,14 +9,14 @@ redirect_from:
 ---
 
 
-**Sol-Bee Lee**
+## Sol-Bee Lee
 ======
  * Convergence Information and Communicatoins Laboratory (CIC Lab.)
  * School of Software, Hallym University
  * Phone: +82-10-4142-7476
  * E-mail: thfqla3535@hallym.ac.kr / sorub3535@gmail.com
 
-**Education**
+## Education
 ======
  * Master-Ph.D. Integrated Course, School of Software, Hallym University (2018.03-Present)
  * Bachelor of Engineering, Department of Convergence Software, Hallym University (2014.03-2018.02)
@@ -109,9 +109,9 @@ redirect_from:
 **References**
 ======
  * Advisor Professor
-   Prof. Eui-Jik Kim
-   School of Software, Hallym University
-   E-mail: ejkim32@hallym.ac.kr
-   Tel.: +82-33-248-2333
+   <br>Prof. Eui-Jik Kim
+   <br>School of Software, Hallym University
+   <br>E-mail: ejkim32@hallym.ac.kr
+   <br>Tel.: +82-33-248-2333
 
 
