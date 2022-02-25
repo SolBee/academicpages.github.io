@@ -10,7 +10,6 @@ redirect_from:
 
 
 # Sol-Bee Lee
-======
  * Convergence Information and Communicatoins Laboratory (CIC Lab.)
  * School of Software, Hallym University
  * Phone: +82-10-4142-7476
@@ -18,20 +17,17 @@ redirect_from:
 
 
 # Education
-======
  * Master-Ph.D. Integrated Course, School of Software, Hallym University (2018.03-Present)
  * Bachelor of Engineering, Department of Convergence Software, Hallym University (2014.03-2018.02)
 
 
 # Work Experience
-======
 * **Assistant Researcher**
   * KETI (Korea Electronics Technology Institute)
   * 2018.09-2019.08
   
   
 # Technical Skills
-======
 * Computing Platform: Windows and Ubuntu.
 * Simulation Software: MATLAB, Python, and C++.
 * Programming Languages: Python, Java, and C++.
@@ -39,19 +35,16 @@ redirect_from:
 
 
 # Honors and Awards
-======
  * 한림대학교 개교35주년 학교를 빛낸 학생 표창 - 연구부문 (2017.05)
  * National Science and Engineering Undergraduate Scholarship by the Korea Student Aid Foundation (KOSAF) (2016-2017)
    
    
 # Projects
-======
  * 
  * 
 
 
 # International Journal
-======
 1. **Sol-Bee Lee**, Jung-Hyok Kwon, and Eui-Jik Kim*, "Residual Energy Estimation-Based MAC Protocol for Wireless Powered Sensor Networks," _Sensors_, vol. 21 no. 22, pp. 7617:1-7617:21, Nov. 2021.
 1. **Sol-Bee Lee**, Jung-Hyok Kwon, Eui-Jik Kim*, and Jaehoon Park*, "Implementation of Integrated Electronic Health Record and Mobile Personal Health Record Datasets for Improving Healthcare Services," _Sensors and Materials_, vol. 30, no. 8, pp. 1885-1890, Aug. 2018.
 1. Minki Cha, Jung-Hyok Kwon, **Sol-Bee Lee**, Jaehoon Park, Sungkwan Youm, and Eui-Jik Kim*, "Integrated Framework for Keyword-based Text Data Collection and Analysis," _Sensors and Materials_, vol. 30, no. 3, pp. 439-445, Feb. 2018.
@@ -62,7 +55,6 @@ redirect_from:
 
 
 # International Conference
-======
 1. **Sol-Bee Lee**, Sang-Woo Lee, Jung-Hyok Kwon, and Eui-Jik Kim, "Energy-efficient Parent Selection Algorithm for SWIPT in Wireless Sensor Networks," in _Proc. IEEE Eurasia Conference on IOT, Communication and Engineering (ECICE) 2020_, Yunlin, Taiwan, Oct. 2020.
 1. Sang-Woo Lee, **Sol-Bee Lee**, Jung-Hyok Kwon, and Eui-Jik Kim, "Traffic-Adaptive Inactive Period Allocation for IEEE 802.15.4 Deterministic Synchronous Multichannel Extension," in _Proc. IEEE Eurasia Conference on IOT, Communication and Engineering (2020)_, Yunlin, Taiwan, Oct. 2020.
 1. Jung-Hyok Kwon, Sang-Woo Lee, **Sol-Bee Lee**, and Eui-Jik Kim, "Impact of Correlation-based Feature Selection on Photovoltaic Power Prediction," in _Proc. Technology Innovation Management and Engineering Science International Conference (TIMES-iCON) 2019_, Bangkok, Thailand, Dec. 2019.
@@ -84,12 +76,10 @@ redirect_from:
 
 
 # Domestic Journal
-======
 1. 고하나, **이솔비**, 김의직, "LSTM 모델 기반 리튬이온 배터리의 SOH 예측," 한국디지털콘텐츠학회 논문지, vol. 22, no. 4, pp. 697-703, 2021년 4월.
 
 
 # Domestic Conference
-======
 1. **이솔비**, 권정혁, 김의직, "의료 사물인터넷에서 에너지 균형적인 무선전력전송을 위한 소모 에너지 추정 기반 스케줄링 기법 연구," 한국통신학회 동계종합학술발표회, 2022년 2월.
 1. **이솔비**, 권정혁, 김의직, "통학 차량 안전사고 예방을 위한 선형회귀 기반 거리 추정 모델," 한국통신학회 하계종합학술발표회, 2021년 6월.
 1. 이연희, 이상우, **이솔비**, 김의직, 권정혁, "무구속 무자각 헬스케어를 위한 EOG 기반 사용자 피로도 측정 시스템," 한국정보과학회 한국소프트웨어 종합학술대회, 2019년 12월.
@@ -104,7 +94,6 @@ redirect_from:
 
 
 # Patents
-======
 1. 김의직, 권정혁, **이솔비**, "PRU의 잔여 에너지량을 기반으로 DPS를 할당하는 PTU, 및 WPSN 시스템," 출원번호: 10-2021-0156897 (2021.11.15)
 1. 김의직, 권정혁, **이솔비**, "슈퍼프레임 내 슬롯 구성을 기반으로 각 PRU의 잔여 에너지량을 추정하는 PTU, 및 WPSN 시스템," 출원번호: 10-2021-0156896 (2021.11.15)
 1. 김의직, 권정혁, **이솔비**, "Q러닝을 기반으로 승하차 판단 보류 구간을 조정하는 서버의 제어 방법," 출원번호: 10-2021-0133826 (2021.10.08)
@@ -117,7 +106,6 @@ redirect_from:
 
 
 # References
-======
 ### Advisor Professor
   Prof. Eui-Jik Kim
   School of Software, Hallym University
