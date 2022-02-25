@@ -5,16 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% include base_path %}
+#{% include base_path %}
 
 **[International Journal]**
 ======
 1. **Sol-Bee Lee**, Jung-Hyok Kwon, and Eui-Jik Kim*, "Residual Energy Estimation-Based MAC Protocol for Wireless Powered Sensor Networks," _Sensors_, vol. 21 no. 22, pp. 7617:1-21, Nov. 2021.
 1. **Sol-Bee Lee**, Jung-Hyok Kwon, Eui-Jik Kim*, and Jaehoon Park*, "Implementation of Integrated Electronic Health Record and Mobile Personal Health Record Datasets for Improving Healthcare Services," _Sensors and Materials_, vol. 30, no. 8, pp. 1885-1890, Aug. 2018.
 1. Minki Cha, Jung-Hyok Kwon, **Sol-Bee Lee**, Jaehoon Park, Sungkwan Youm, and Eui-Jik Kim*, "Integrated Framework for Keyword-based Text Data Collection and Analysis," _Sensors and Materials_, vol. 30, no. 3, pp. 439-445, Feb. 2018.
-1. Sungmo Kim, Jung-Hyok Kwon, **Sol-Bee Lee**, Jaehoon Park, Dongwan Kim*, and Eui-Jik Kim*, "Energy-efficient Resource Directory Update Scheme for Constrained Application Protocol in Internet of Things," _Sensors and Materials_, vol. 30, no. 3, pp. 431-437, Feb. 2018.
-1. Jung-Hyok Kwon, **Sol-Bee Lee**, and Eui-Jik Kim*, "Group-based concurrent transmissions for spatial efficiency in IEEE 802.15. 7 visible light communications," _Applied Mathematical Modelling_, vol. 53, pp. 709-721, Jan. 2018.
-1. Jung-Hyok Kwon, **Sol-Bee Lee**, Jaehoon Park, Kyu-Sung Hwang, Yongseok Lim, and Eui-Jik Kim*, "Adaptive Resource Observation for Congestion Alleviation using Constrained Application Protocol," _International Journal of Engineering and Technology (UAE)_, vol. 7, no. 4.38, pp. 885-887, 2018.
+5. Sungmo Kim, Jung-Hyok Kwon, **Sol-Bee Lee**, Jaehoon Park, Dongwan Kim*, and Eui-Jik Kim*, "Energy-efficient Resource Directory Update Scheme for Constrained Application Protocol in Internet of Things," _Sensors and Materials_, vol. 30, no. 3, pp. 431-437, Feb. 2018.
+6. Jung-Hyok Kwon, **Sol-Bee Lee**, and Eui-Jik Kim*, "Group-based concurrent transmissions for spatial efficiency in IEEE 802.15. 7 visible light communications," _Applied Mathematical Modelling_, vol. 53, pp. 709-721, Jan. 2018.
+7. Jung-Hyok Kwon, **Sol-Bee Lee**, Jaehoon Park, Kyu-Sung Hwang, Yongseok Lim, and Eui-Jik Kim*, "Adaptive Resource Observation for Congestion Alleviation using Constrained Application Protocol," _International Journal of Engineering and Technology (UAE)_, vol. 7, no. 4.38, pp. 885-887, 2018.
 
 **[International Conference]**
 ======
