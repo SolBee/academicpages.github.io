@@ -119,9 +119,9 @@ redirect_from:
 # References
 ======
 ### Advisor Professor
-<br>Prof. Eui-Jik Kim
-<br>School of Software, Hallym University
-<br>E-mail: ejkim32@hallym.ac.kr
-<br>Tel.: +82-33-248-2333
+  Prof. Eui-Jik Kim
+  School of Software, Hallym University
+  E-mail: ejkim32@hallym.ac.kr
+  Tel.: +82-33-248-2333
 
 
