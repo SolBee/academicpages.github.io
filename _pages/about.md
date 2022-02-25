@@ -16,16 +16,19 @@ redirect_from:
  * Phone: +82-10-4142-7476
  * E-mail: thfqla3535@hallym.ac.kr / sorub3535@gmail.com
 
+
 # Education
 ======
  * Master-Ph.D. Integrated Course, School of Software, Hallym University (2018.03-Present)
  * Bachelor of Engineering, Department of Convergence Software, Hallym University (2014.03-2018.02)
 
+
 # Work Experience
 ======
 * **Assistant Researcher**
-  * KETI(Korea Electronics Technology Institute)
+  * KETI (Korea Electronics Technology Institute)
   * 2018.09-2019.08
+  
   
 # Technical Skills
 ======
@@ -34,15 +37,18 @@ redirect_from:
 * Programming Languages: Python, Java, and C++.
 * Language: Korean and English
 
+
 # Honors and Awards
 ======
  * 한림대학교 개교35주년 학교를 빛낸 학생 표창 - 연구부문 (2017.05)
  * National Science and Engineering Undergraduate Scholarship by the Korea Student Aid Foundation (KOSAF) (2016-2017)
    
+   
 # Projects
 ======
  * 
  * 
+
 
 # International Journal
 ======
@@ -53,6 +59,7 @@ redirect_from:
 1. Jung-Hyok Kwon, **Sol-Bee Lee**, and Eui-Jik Kim*, "Group-based concurrent transmissions for spatial efficiency in IEEE 802.15. 7 visible light communications," _Applied Mathematical Modelling_, vol. 53, pp. 709-721, Jan. 2018.
 1. Jung-Hyok Kwon, **Sol-Bee Lee**, Jaehoon Park, Kyu-Sung Hwang, Yongseok Lim, and Eui-Jik Kim*, "Adaptive Resource Observation for Congestion Alleviation using Constrained Application Protocol," _International Journal of Engineering and Technology (UAE)_, vol. 7, no. 4.38, pp. 885-887, 2018.
 1. Jung-Hyok Kwon, **Sol-Bee Lee**, Jaehoon Park, and Eui-Jik Kim*, "Association Rule-based Predictive Model for Machine Failure in Industrial Internet of Things," _Journal of Physics: Conference Series_, vol. 892, No. 1, pp. 012008:1-012008:7, May 2017. 
+
 
 # International Conference
 ======
@@ -75,9 +82,11 @@ redirect_from:
 1. Jung-Hyok Kwon, Ha-Ra Oh, **Sol-Bee Lee**, Wonyong An, and Eui-Jik Kim, "MAC parameter configurations for Wi-Fi backscatter uplink communication," in _Proc. International Conference on of Engineering and Technology Innovation (IMETI) 2016_, Taichung, Taiwan, Oct. 2016.
 1. Sungmo Kim, Jung-Hyok Kwon, Hwi-Ho Lee, **Sol-Bee Lee**, and Eui-Jik Kim, "Enhanced Dynamic Observing Period Adjustment for CoAP-based Monitoring System," in _Proc. International Conference on Convergence Technology (ICCT) 2016_, Jeju, Korea, Jun. 2016.
 
+
 # Domestic Journal
 ======
 1. 고하나, **이솔비**, 김의직, "LSTM 모델 기반 리튬이온 배터리의 SOH 예측," 한국디지털콘텐츠학회 논문지, vol. 22, no. 4, pp. 697-703, 2021년 4월.
+
 
 # Domestic Conference
 ======
@@ -93,6 +102,7 @@ redirect_from:
 1. 배준희,	김호영, **이솔비**, 이휘호, 권정혁, 김의직, "건설 현장에서의 재난 안전관리용 드론 기술 조사," 한국사물인터넷학회 드론 종합학술대회, 2017년 11월.
 1. **이솔비**,	권정혁, 이휘호, 차민기, 김성모, 김호영, 김의직, "공사현장의 안전사고 예방을 위한 연관규칙 분석 기반 사고 예측모델," 한국통신학회 하계종합학술발표회, 2017년 6월.
 
+
 # Patents
 ======
 1. 김의직, 권정혁, **이솔비**, "PRU의 잔여 에너지량을 기반으로 DPS를 할당하는 PTU, 및 WPSN 시스템," 출원번호: 10-2021-0156897 (2021.11.15)
@@ -104,6 +114,7 @@ redirect_from:
 1. 김의직, 권정혁, **이솔비**, 김호영, "무선 센서 네트워크에서 무인기를 이용한 데이터 수집 방법 및 이 방법이 적용된 기기," 출원번호: 10-2017-0149030 (2017.11.09), **등록번호: 10-1931803 (2018.12.17)**
 1. 김의직, **이솔비**, 권정혁, "산업용 사물 인터넷에 기반한 공사 현장 안전을 위한 사고 예측 시스템 및 방법," 출원번호: 10-2017-0142473 (2017.10.30), **등록번호: 10-1916411 (2018.11.01)**
 1. 김의직, 권정혁, 김성모, 오하라, **이솔비**, 안원용, "CoAP 서버의 관찰 주기 조절 시스템 및 방법," 출원번호: 10-2016-0114614 (2016.09.06), **등록번호: 10-1825210 (2018.01.29)**
+
 
 # References
 ======
