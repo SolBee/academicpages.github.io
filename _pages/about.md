@@ -10,7 +10,7 @@ redirect_from:
 
 
 # Sol-Bee Lee
- ## Ph.D. Studuent
+ * Ph.D. Studuent
  * Convergence Information and Communicatoins Laboratory (CIC Lab.)
  * Department of Convergence Software
  * Hallym University
