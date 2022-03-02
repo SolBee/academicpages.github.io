@@ -46,7 +46,7 @@ redirect_from:
   
 # Professional Activities
   * Member of IEC TC 100/TA 15/WG 2
-  * Writer of the standard: Time Division Duplex(TDD) Communication Technology for Controlling Radio Frequency(RF) Beam-Forming Wireless Power Transmission (TTAK.KO-06.0488) [link](http://www.tta.or.kr/tta/ttaSearchView.do?key=77&rep=1&searchStandardNo=TTAK.KO-06.0488&searchCate=TTAS)
+  * Writer of the standard: Time Division Duplex(TDD) Communication Technology for Controlling Radio Frequency(RF) Beam-Forming Wireless Power Transmission (TTAK.KO-06.0488) [[link]](http://www.tta.or.kr/tta/ttaSearchView.do?key=77&rep=1&searchStandardNo=TTAK.KO-06.0488&searchCate=TTAS)
   
   
 # Teaching Assistant
