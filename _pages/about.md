@@ -10,21 +10,44 @@ redirect_from:
 
 
 # Sol-Bee Lee
+ * Ph.D. Studuent
  * Convergence Information and Communicatoins Laboratory (CIC Lab.)
  * School of Software, Hallym University
- * Phone: +82-10-4142-7476
- * E-mail: thfqla3535@hallym.ac.kr / sorub3535@gmail.com
+ * Address: School of Software, Hallym University, 1 Hallymdaehak-gil, Chuncheon 24252, Gangwon-do, South Korea 
+ * Office: +82-33-248-2398
+ * E-mail: thfqla3535@hallym.ac.kr / sorub3535@gmail.com 
 
 
 # Education
- * Master-Ph.D. Integrated Course, School of Software, Hallym University (2018.03-Present)
- * Bachelor of Engineering, Department of Convergence Software, Hallym University (2014.03-2018.02)
+ * Master-Ph.D. Integrated Course, School of Software, Hallym University (Mar. 2018 - Current)
+ * Bachelor of Engineering, Department of Convergence Software, Hallym University (Mar. 2014 - Feb. 2018)
 
+   ### Advisor Professor
+   * Prof. Eui-Jik Kim
+   * School of Software, Hallym University
+   * E-mail: ejkim32@hallym.ac.kr
+   * Tel.: +82-33-248-2333
+ 
+
+# Research Interests
+* **Research Interests**
+  * IoT Connectivity: IEEE 802.15.4, 
+  * Artificial Intelligence: Deep Learning, Reinforcement Learning
+  * Wireless Sensor Networks (WSN)
+  * Protocol Design for LP-WPAN
+  * Wireless Power Transfer (WPT)
+  * 
+  
 
 # Work Experience
 * **Assistant Researcher**
   * KETI (Korea Electronics Technology Institute)
   * 2018.09-2019.08
+  
+  
+# Professional Activities
+  * Member of IEC TC 100/TA 15/WG 2
+  * Writer of the standard: Time Division Duplex(TDD) Communication Technology for Controlling Radio Frequency(RF) Beam-Forming Wireless Power Transmission (TTAK.KO-06.0488) [link](http://www.tta.or.kr/tta/ttaSearchView.do?key=77&rep=1&searchStandardNo=TTAK.KO-06.0488&searchCate=TTAS)
   
   
 # Technical Skills
@@ -39,9 +62,9 @@ redirect_from:
  * National Science and Engineering Undergraduate Scholarship by the Korea Student Aid Foundation (KOSAF) (2016-2017)
    
    
-# Projects
- * 
- * 
+# Research Projects
+ * TBU
+ * TBU
 
 
 # International Journal
@@ -104,12 +127,10 @@ redirect_from:
 1. 김의직, **이솔비**, 권정혁, "산업용 사물 인터넷에 기반한 공사 현장 안전을 위한 사고 예측 시스템 및 방법," 출원번호: 10-2017-0142473 (2017.10.30), **등록번호: 10-1916411 (2018.11.01)**
 1. 김의직, 권정혁, 김성모, 오하라, **이솔비**, 안원용, "CoAP 서버의 관찰 주기 조절 시스템 및 방법," 출원번호: 10-2016-0114614 (2016.09.06), **등록번호: 10-1825210 (2018.01.29)**
 
-
-# References
+<!-- # References
 ### Advisor Professor
   Prof. Eui-Jik Kim
   <br>School of Software, Hallym University
   <br>E-mail: ejkim32@hallym.ac.kr
   <br>Tel.: +82-33-248-2333
-
-
+ -->
