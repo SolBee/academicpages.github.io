@@ -41,7 +41,7 @@ redirect_from:
 # Work Experience
 * **Assistant Researcher**
   * KETI (Korea Electronics Technology Institute)
-  * 2018.09-2019.08
+  * Sep. 2018 - Aug. 2019
   
   
 # Professional Activities
@@ -63,7 +63,7 @@ redirect_from:
 
 
 # Awards and Scholarships
- * 한림대학교 개교35주년 학교를 빛낸 학생 표창 - 연구부문 (2017.05)
+ * 한림대학교 개교35주년 학교를 빛낸 학생 표창 - 연구부문 (May 2017)
  * National Science and Engineering Undergraduate Scholarship by the Korea Student Aid Foundation (KOSAF) (2016-2017)
    
    
