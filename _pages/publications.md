@@ -5,41 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Sol-Bee Lee**
-======
- * Convergence Information and Communicatoins Laboratory (CIC Lab.)
- * School of Software, Hallym University
- * Phone: +82-10-4142-7476
- * E-mail: thfqla3535@hallym.ac.kr / sorub3535@gmail.com
-
-**Education**
-======
- * Master-Ph.D. Integrated Course, School of Software, Hallym University (2018.03-Present)
- * Bachelor of Engineering, Department of Convergence Software, Hallym University (2014.03-2018.02)
-
-**Work Experience**
-======
-* **Assistant Researcher**
-  * KETI(Korea Electronics Technology Institute)
-  * 2018.09-2019.08
-  
-**Technical Skills**
-======
-* Computing Platform: Windows and Ubuntu.
-* Simulation Software: MATLAB, Python, and C++.
-* Programming Languages: Python, Java, and C++.
-* Language: Korean and English
-
-**Honors and Awards**
-======
- * 한림대학교 개교35주년 학교를 빛낸 학생 표창 - 연구부문 (2017.05)
- * National Science and Engineering Undergraduate Scholarship by the Korea Student Aid Foundation (KOSAF) (2016-2017)
-   
-**Projects**
-======
- * 
- * 
-
 **International Journal**
 ======
 1. **Sol-Bee Lee**, Jung-Hyok Kwon, and Eui-Jik Kim*, "Residual Energy Estimation-Based MAC Protocol for Wireless Powered Sensor Networks," _Sensors_, vol. 21 no. 22, pp. 7617:1-7617:21, Nov. 2021.
@@ -102,11 +67,4 @@ author_profile: true
 1. 김의직, **이솔비**, 권정혁, "산업용 사물 인터넷에 기반한 공사 현장 안전을 위한 사고 예측 시스템 및 방법," 출원번호: 10-2017-0142473 (2017.10.30), **등록번호: 10-1916411 (2018.11.01)**
 1. 김의직, 권정혁, 김성모, 오하라, **이솔비**, 안원용, "CoAP 서버의 관찰 주기 조절 시스템 및 방법," 출원번호: 10-2016-0114614 (2016.09.06), **등록번호: 10-1825210 (2018.01.29)**
 
-**References**
-======
- * Advisor Professor
-   Prof. Eui-Jik Kim
-   School of Software, Hallym University
-   E-mail: ejkim32@hallym.ac.kr
-   Tel.: +82-33-248-2333
 
