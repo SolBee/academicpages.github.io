@@ -26,8 +26,8 @@ redirect_from:
    ### Advisor Professor
    * Prof. Eui-Jik Kim
    * School of Software, Hallym University
+   * Office: +82-33-248-2333
    * E-mail: ejkim32@hallym.ac.kr
-   * Tel.: +82-33-248-2333
  
 
 # Research Interests
@@ -83,26 +83,7 @@ redirect_from:
 
 
 # International Conference
-<!-- 1. **Sol-Bee Lee**, Sang-Woo Lee, Jung-Hyok Kwon, and Eui-Jik Kim, "Energy-efficient Parent Selection Algorithm for SWIPT in Wireless Sensor Networks," in _Proc. IEEE Eurasia Conference on IOT, Communication and Engineering (ECICE) 2020_, Yunlin, Taiwan, Oct. 2020.
-1. Sang-Woo Lee, **Sol-Bee Lee**, Jung-Hyok Kwon, and Eui-Jik Kim, "Traffic-Adaptive Inactive Period Allocation for IEEE 802.15.4 Deterministic Synchronous Multichannel Extension," in _Proc. IEEE Eurasia Conference on IOT, Communication and Engineering (2020)_, Yunlin, Taiwan, Oct. 2020.
--->
 1. Jung-Hyok Kwon, Sang-Woo Lee, **Sol-Bee Lee**, and Eui-Jik Kim, "Impact of Correlation-based Feature Selection on Photovoltaic Power Prediction," in _Proc. Technology Innovation Management and Engineering Science International Conference (TIMES-iCON) 2019_, Bangkok, Thailand, Dec. 2019.
-<!-- 1. **Sol-Bee Lee**, Jung-Hyok Kwon, and Eui-Jik Kim, "TDD-based MAC Protocol for Radio Frequency Wireless Power Transfer," in _Proc. IEEE INTERNATIONAL CONFERENCE ON KNOWLEDGE INNOVATION AND INVENTION (ICKII) 2019_, Seoul, Korea, Jul. 2019.
-1. **Sol-Bee Lee**, Jung-Hyok Kwon, Sang-Woo Lee, and Eui-Jik Kim, "Low-power and SWIPT-supported MAC Superframe Structure for IoT Devices," in _Proc. IEEE International Conference of Intelligent Applied Systems on Engineering (ICIASE) 2019_, Fuzhou, China, Apr. 2019.
-1. Jung-Hyok Kwon, **Sol-Bee Lee**, Sang-Woo Lee, and Eui-Jik Kim, "Multi-tag Anti-collision Protocol for Wi-Fi Backscatter-based IoT Systems," in _Proc. IEEE International Conference of Intelligent Applied Systems on Engineering (ICIASE) 2019_, Fuzhou, China, Apr. 2019.
-1. Sang-Woo Lee, Jung-Hyok Kwon, **Sol-Bee Lee**, Ho-Young Kim, and Eui-Jik Kim, "Knowledge Extraction from Research Papers related to Effects of Electromagnetic Fields," in _Proc. International Conference on of Engineering and Technology Innovation (IMETI) 2018_, Taoyuan, Taiwan, Nov. 2018.
-1. Ho-Young Kim, Jung-Hyok Kwon, **Sol-Bee Lee**, Sang-Woo Lee, and Eui-Jik Kim, "Adaptive Timeslot Allocation for Time Switching-Based SWIPT in IEEE 802.15.4 TSCH," in _Proc. International Conference on of Engineering and Technology Innovation (IMETI) 2018_, Taoyuan, Taiwan, Nov. 2018.
-1. Jung-Hyok Kwon, **Sol-Bee Lee**, Ho-Young Kim, and Eui-Jik Kim, "Effects of Dataset Size on Human Activity Recognition in Healthcare Internet of Things," in _Proc. IEEE International Conference on Applied System Innovation (ICASI) 2018_, Tokyo, Japan, Apr. 2018.
-1. **Sol-Bee Lee**, Jung-Hyok Kwon, Ho-Young Kim, and Eui-Jik Kim, "Enhanced CSMA/CA Algorithm for IEEE 802.15.4e TSCH Behavior Mode in Industrial Internet of Things," in _Proc. IEEE International Conference on Applied System Innovation (ICASI) 2018_, Tokyo, Japan, Apr. 2018.
-1. Jung-Hyok Kwon, **Sol-Bee Lee**, Ho-Young Kim, and Eui-Jik Kim, "IEEE 802.15.4 DSME Multi-Superframe Configuration for Industrial Internet of Things Monitoring Services," in _Proc. IEEE International Conference on Applied System Innovation (ICASI) 2018_, Tokyo, Japan, Apr. 2018.
-1. Ho-Young Kim, Jung-Hyok Kwon, **Sol-Bee Lee**, and Eui-Jik Kim, "Adaptive Data-collecting Time Adjustment Mechanism of UAV Sink in Large-scale Wireless Sensor Networks," in _Proc. IEEE International Conference on Applied System Innovation (ICASI) 2018_, Tokyo, Japan, Apr. 2018.
-1. Jung-Hyok Kwon, Sungmo Kim, **Sol-Bee Lee**, Hoyoung Kim, and Eui-Jik Kim, "Buffer Overflow Estimation for CoAP Observing Period Adaptation," in _Proc. International Conference on Advanced Manufacturing and Design Engineering (CAMDE) 2017_, Ho Chi Minh City, Vietnam, Nov. 2017.
-1. **Sol-Bee Lee**, Jung-Hyok Kwon and Eui-Jik Kim, "Integrated Dataset-based Outlier Detection using Cluster Centroid for Healthcare System," in _Proc. International Conference on of Engineering and Technology Innovation (IMETI) 2017_, Hualien, Taiwan, Oct. 2017.
-1. Jung-Hyok Kwon, Minki Cha, **Sol-Bee Lee**, Ho-Young Kim, and Eui-Jik Kim, "Load Balanced-Trickle Timer in Routing Protocol for Low Power and Lossy Network," in _Proc. International Conference on Convergence Technology (ICCT) 2017_, Hokkaido, Japan, Jul. 2017.
-1. **Sol-Bee Lee**, Jung-Hyok Kwon, Hwi-Ho Lee, Ho-Young Kim, and Eui-Jik Kim, "Safety Management Model based on Predictive Association Rules for Industrial Internet of Things," in _Proc. International Conference on Convergence Technology (ICCT) 2017_, Hokkaido, Japan, Jul. 2017.
-1. Jung-Hyok Kwon, Ha-Ra Oh, **Sol-Bee Lee**, Wonyong An, and Eui-Jik Kim, "MAC parameter configurations for Wi-Fi backscatter uplink communication," in _Proc. International Conference on of Engineering and Technology Innovation (IMETI) 2016_, Taichung, Taiwan, Oct. 2016.
-1. Sungmo Kim, Jung-Hyok Kwon, Hwi-Ho Lee, **Sol-Bee Lee**, and Eui-Jik Kim, "Enhanced Dynamic Observing Period Adjustment for CoAP-based Monitoring System," in _Proc. International Conference on Convergence Technology (ICCT) 2016_, Jeju, Korea, Jun. 2016.
--->
 
 
 # Domestic Journal
