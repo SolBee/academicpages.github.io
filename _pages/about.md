@@ -46,7 +46,8 @@ redirect_from:
   
 # Professional Activities
   * Member of IEC TC 100/TA 15/WG 2
-  * Writer of the standard: Time Division Duplex(TDD) Communication Technology for Controlling Radio Frequency(RF) Beam-Forming Wireless Power Transmission (TTAK.KO-06.0488) [[link]](http://www.tta.or.kr/tta/ttaSearchView.do?key=77&rep=1&searchStandardNo=TTAK.KO-06.0488&searchCate=TTAS)
+  * Writer of the standard: Time Division Duplex(TDD) Communication Technology for Controlling Radio Frequency(RF) Beam-Forming Wireless Power Transmission (TTAK.KO-06.0488)
+<!--   * [[link]](http://www.tta.or.kr/tta/ttaSearchView.do?key=77&rep=1&searchStandardNo=TTAK.KO-06.0488&searchCate=TTAS) -->
   
   
 # Teaching Assistant
@@ -83,7 +84,8 @@ redirect_from:
 
 # International Conference
 <!-- 1. **Sol-Bee Lee**, Sang-Woo Lee, Jung-Hyok Kwon, and Eui-Jik Kim, "Energy-efficient Parent Selection Algorithm for SWIPT in Wireless Sensor Networks," in _Proc. IEEE Eurasia Conference on IOT, Communication and Engineering (ECICE) 2020_, Yunlin, Taiwan, Oct. 2020.
-1. Sang-Woo Lee, **Sol-Bee Lee**, Jung-Hyok Kwon, and Eui-Jik Kim, "Traffic-Adaptive Inactive Period Allocation for IEEE 802.15.4 Deterministic Synchronous Multichannel Extension," in _Proc. IEEE Eurasia Conference on IOT, Communication and Engineering (2020)_, Yunlin, Taiwan, Oct. 2020. -->
+1. Sang-Woo Lee, **Sol-Bee Lee**, Jung-Hyok Kwon, and Eui-Jik Kim, "Traffic-Adaptive Inactive Period Allocation for IEEE 802.15.4 Deterministic Synchronous Multichannel Extension," in _Proc. IEEE Eurasia Conference on IOT, Communication and Engineering (2020)_, Yunlin, Taiwan, Oct. 2020.
+-->
 1. Jung-Hyok Kwon, Sang-Woo Lee, **Sol-Bee Lee**, and Eui-Jik Kim, "Impact of Correlation-based Feature Selection on Photovoltaic Power Prediction," in _Proc. Technology Innovation Management and Engineering Science International Conference (TIMES-iCON) 2019_, Bangkok, Thailand, Dec. 2019.
 <!-- 1. **Sol-Bee Lee**, Jung-Hyok Kwon, and Eui-Jik Kim, "TDD-based MAC Protocol for Radio Frequency Wireless Power Transfer," in _Proc. IEEE INTERNATIONAL CONFERENCE ON KNOWLEDGE INNOVATION AND INVENTION (ICKII) 2019_, Seoul, Korea, Jul. 2019.
 1. **Sol-Bee Lee**, Jung-Hyok Kwon, Sang-Woo Lee, and Eui-Jik Kim, "Low-power and SWIPT-supported MAC Superframe Structure for IoT Devices," in _Proc. IEEE International Conference of Intelligent Applied Systems on Engineering (ICIASE) 2019_, Fuzhou, China, Apr. 2019.
@@ -99,7 +101,8 @@ redirect_from:
 1. Jung-Hyok Kwon, Minki Cha, **Sol-Bee Lee**, Ho-Young Kim, and Eui-Jik Kim, "Load Balanced-Trickle Timer in Routing Protocol for Low Power and Lossy Network," in _Proc. International Conference on Convergence Technology (ICCT) 2017_, Hokkaido, Japan, Jul. 2017.
 1. **Sol-Bee Lee**, Jung-Hyok Kwon, Hwi-Ho Lee, Ho-Young Kim, and Eui-Jik Kim, "Safety Management Model based on Predictive Association Rules for Industrial Internet of Things," in _Proc. International Conference on Convergence Technology (ICCT) 2017_, Hokkaido, Japan, Jul. 2017.
 1. Jung-Hyok Kwon, Ha-Ra Oh, **Sol-Bee Lee**, Wonyong An, and Eui-Jik Kim, "MAC parameter configurations for Wi-Fi backscatter uplink communication," in _Proc. International Conference on of Engineering and Technology Innovation (IMETI) 2016_, Taichung, Taiwan, Oct. 2016.
-1. Sungmo Kim, Jung-Hyok Kwon, Hwi-Ho Lee, **Sol-Bee Lee**, and Eui-Jik Kim, "Enhanced Dynamic Observing Period Adjustment for CoAP-based Monitoring System," in _Proc. International Conference on Convergence Technology (ICCT) 2016_, Jeju, Korea, Jun. 2016. -->
+1. Sungmo Kim, Jung-Hyok Kwon, Hwi-Ho Lee, **Sol-Bee Lee**, and Eui-Jik Kim, "Enhanced Dynamic Observing Period Adjustment for CoAP-based Monitoring System," in _Proc. International Conference on Convergence Technology (ICCT) 2016_, Jeju, Korea, Jun. 2016.
+-->
 
 
 # Domestic Journal
