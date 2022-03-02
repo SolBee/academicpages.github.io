@@ -10,12 +10,13 @@ redirect_from:
 
 
 # Sol-Bee Lee
- * Ph.D. Studuent
+ ## Ph.D. Studuent
  * Convergence Information and Communicatoins Laboratory (CIC Lab.)
- * School of Software, Hallym University
- * Address: School of Software, Hallym University, 1 Hallymdaehak-gil, Chuncheon 24252, Gangwon-do, South Korea 
+ * Department of Convergence Software
+ * Hallym University
+ * Address: Room 1321, School of Software, Hallym University, 1 Hallymdaehak-gil, Chuncheon, Gangwon-do, South Korea (24252)
  * Office: +82-33-248-2398
- * E-mail: thfqla3535@hallym.ac.kr / sorub3535@gmail.com 
+ * E-mail: thfqla3535@hallym.ac.kr
 
 
 # Education
@@ -31,12 +32,11 @@ redirect_from:
 
 # Research Interests
 * **Research Interests**
-  * IoT Connectivity: IEEE 802.15.4, 
+  * IoT Connectivity: IEEE 802.15.4, IEEE 802.11
   * Artificial Intelligence: Deep Learning, Reinforcement Learning
   * Wireless Sensor Networks (WSN)
-  * Protocol Design for LP-WPAN
-  * Wireless Power Transfer (WPT)
-  * 
+  * MAC Protocol Design for LP-WPAN
+  * Wireless Power Transfer (WPT) 
   
 
 # Work Experience
@@ -50,14 +50,19 @@ redirect_from:
   * Writer of the standard: Time Division Duplex(TDD) Communication Technology for Controlling Radio Frequency(RF) Beam-Forming Wireless Power Transmission (TTAK.KO-06.0488) [link](http://www.tta.or.kr/tta/ttaSearchView.do?key=77&rep=1&searchStandardNo=TTAK.KO-06.0488&searchCate=TTAS)
   
   
+# Teaching Assistant
+  * Operating System, Spring 2018
+  * IoT Network, Spring 2020
+  
+  
 # Technical Skills
-* Computing Platform: Windows and Ubuntu.
-* Simulation Software: MATLAB, Python, and C++.
-* Programming Languages: Python, Java, and C++.
+* Computing Platform: Windows and Ubuntu
+* Simulation Software: MATLAB
+* Programming Languages: Python, Java, and C++
 * Language: Korean and English
 
 
-# Honors and Awards
+# Awards and Scholarships
  * 한림대학교 개교35주년 학교를 빛낸 학생 표창 - 연구부문 (2017.05)
  * National Science and Engineering Undergraduate Scholarship by the Korea Student Aid Foundation (KOSAF) (2016-2017)
    
