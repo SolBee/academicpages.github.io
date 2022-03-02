@@ -31,7 +31,6 @@ redirect_from:
  
 
 # Research Interests
-* **Research Interests**
   * IoT Connectivity: IEEE 802.15.4, IEEE 802.11
   * Artificial Intelligence: Deep Learning, Reinforcement Learning
   * Wireless Sensor Networks (WSN)
