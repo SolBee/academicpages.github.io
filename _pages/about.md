@@ -22,6 +22,7 @@ redirect_from:
 # Education
  * Master-Ph.D. Integrated Course, School of Software, Hallym University (Mar. 2018 - Current)
  * Bachelor of Engineering, Department of Convergence Software, Hallym University (Mar. 2014 - Feb. 2018)
+   * Total GPA of 4.16/4.50
 
    ### Advisor Professor
    * Prof. Eui-Jik Kim
@@ -36,6 +37,7 @@ redirect_from:
   * Wireless Sensor Networks (WSN)
   * MAC Protocol Design for LP-WPAN
   * Wireless Power Transfer (WPT) 
+  * Edge Computing
   
 
 # Work Experience
@@ -56,17 +58,27 @@ redirect_from:
   
   
 # Technical Skills
-* Computing Platform: Windows and Ubuntu
+* Computing Platform: Windows, Ubuntu
 * Simulation Software: MATLAB
-* Programming Languages: Python, Java, and C++
-* Language: Korean and English
+* Programming Languages: Python, Java, C++
+* Language: Korean, English
 
 
-# Awards and Scholarships
+# Awards
  * 한림대학교 개교35주년 학교를 빛낸 학생 표창 - 연구부문 (May 2017)
+ 
+ 
+# Scholarships
+ * Academic Scholarships, Hallym University
+   * Academic Excellence Scholarship (Fall 2014, Spring and Fall 2015)
+   * Hallym Recommendation Scholarship (Spring and Fall 2017)
+ 
+ 
+# Grants
  * National Science and Engineering Undergraduate Scholarship by the Korea Student Aid Foundation (KOSAF) (2016-2017)
-   
-   
+   * For attaining a semester GPA of at least 3.50/4.50. Full-tuition scholarship (3rd and 4th grade)
+
+ 
 # Research Projects
  * TBU
  * TBU
