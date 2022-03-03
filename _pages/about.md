@@ -48,7 +48,7 @@ redirect_from:
   
 # Professional Activities
   * Member of IEC TC 100/TA 15/WG 2
-  * Writer of the standard: Time Division Duplex(TDD) Communication Technology for Controlling Radio Frequency(RF) Beam-Forming Wireless Power Transmission (TTAK.KO-06.0488)
+  * Writer of the standard: Time Division Duplex (TDD) Communication Technology for Controlling Radio Frequency (RF) Beam-Forming Wireless Power Transmission (TTAK.KO-06.0488)
 <!--   * [[link]](http://www.tta.or.kr/tta/ttaSearchView.do?key=77&rep=1&searchStandardNo=TTAK.KO-06.0488&searchCate=TTAS) -->
   
   
@@ -73,7 +73,7 @@ redirect_from:
  
 # Grants
  * National Science and Engineering Undergraduate Scholarship by the Korea Student Aid Foundation (KOSAF) (2016-2017)
-   * For attaining a semester GPA of at least 3.50/4.50. Full-tuition scholarship (3rd and 4th grade)
+   * For attaining a semester GPA of at least 3.50/4.50. Full-tuition scholarship.
 
  
 # Research Projects
