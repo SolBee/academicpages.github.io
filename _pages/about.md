@@ -36,7 +36,7 @@ redirect_from:
   * Artificial Intelligence: Deep Learning, Reinforcement Learning
   * Wireless Sensor Networks (WSN)
   * MAC Protocol Design for LP-WPAN
-  * Wireless Power Transfer (WPT) 
+  * Wireless Power Transfer (WPT)
   * Edge Computing
   
 
@@ -64,11 +64,8 @@ redirect_from:
 * Language: Korean, English
 
 
-# Awards
- * 한림대학교 개교35주년 학교를 빛낸 학생 표창 - 연구부문 (May 2017)
- 
- 
-# Scholarships
+# Awards & Scholarships
+ * Student Commendation on Hallym University's 35th Anniversary - Research Field (May 2017)
  * Academic Scholarships, Hallym University
    * Academic Excellence Scholarship (Fall 2014, Spring and Fall 2015)
    * Hallym Recommendation Scholarship (Spring and Fall 2017)
