@@ -82,7 +82,7 @@ redirect_from:
 
 
 # International Journal
-1. **Sol-Bee Lee**, Jung-Hyok Kwon, and Eui-Jik Kim*, "Multiple Concurrent Slotframe Scheduling for Wireless Power Transfer-Enabled Wireless Sensor Networks," _Sensors_, vol. 22, no. 12, pp. 4520:1-4520:21, 2022.
+1. **Sol-Bee Lee**, Jung-Hyok Kwon, and Eui-Jik Kim*, "Multiple Concurrent Slotframe Scheduling for Wireless Power Transfer-Enabled Wireless Sensor Networks," _Sensors_, vol. 22, no. 12, pp. 4520:1-4520:21, Jun. 2022.
 1. **Sol-Bee Lee**, Jung-Hyok Kwon, and Eui-Jik Kim*, "Residual Energy Estimation-Based MAC Protocol for Wireless Powered Sensor Networks," _Sensors_, vol. 21, no. 22, pp. 7617:1-7617:21, Nov. 2021.
 1. **Sol-Bee Lee**, Jung-Hyok Kwon, Eui-Jik Kim*, and Jaehoon Park*, "Implementation of Integrated Electronic Health Record and Mobile Personal Health Record Datasets for Improving Healthcare Services," _Sensors and Materials_, vol. 30, no. 8, pp. 1885-1890, Aug. 2018.
 1. Minki Cha, Jung-Hyok Kwon, **Sol-Bee Lee**, Jaehoon Park, Sungkwan Youm, and Eui-Jik Kim*, "Integrated Framework for Keyword-based Text Data Collection and Analysis," _Sensors and Materials_, vol. 30, no. 3, pp. 439-445, Feb. 2018.
