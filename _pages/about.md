@@ -55,6 +55,7 @@ redirect_from:
 # Teaching Assistant
   * Operating System, Spring 2018
   * IoT Network, Spring 2020
+  * Embedded System, Fall 2022
   
   
 # Technical Skills
