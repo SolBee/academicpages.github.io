@@ -94,8 +94,8 @@ redirect_from:
 
 
 # International Conference
-1. **Sol-Bee Lee**, Jung-Hyok Kwon, and Eui-Jik Kim, "Impact of Slotframe Length on Performance of TSCH-based Wireless Powered Sensor Networks," in _Proc. 2023 13th International Conference on Power, Energy and Electrical Engineering (CPEEE), Tokyo, Japan, Feb. 2023. (Accepted_)
-1. Sang-Woo Lee, Jung-Hyok Kwon, **Sol-Bee Lee**, Nam Kim, Hyung Do Choi, and Eui-Jik Kim, "Comparative Study of Word Embeddings for Classification of Scientific Article on Human Health Risk of Electromagnetic Fields," in _Proc. 2022 IEEE 11th Global Conference on Consumer Electronics (GCCE), Osaka, Japan, Oct. 2022.
+1. **Sol-Bee Lee**, Jung-Hyok Kwon, and Eui-Jik Kim, "Impact of Slotframe Length on Performance of TSCH-based Wireless Powered Sensor Networks," in _Proc. 2023 13th International Conference on Power, Energy and Electrical Engineering (CPEEE)_, Tokyo, Japan, Feb. 2023. (_Accepted_)
+1. Sang-Woo Lee, Jung-Hyok Kwon, **Sol-Bee Lee**, Nam Kim, Hyung Do Choi, and Eui-Jik Kim, "Comparative Study of Word Embeddings for Classification of Scientific Article on Human Health Risk of Electromagnetic Fields," in _Proc. 2022 IEEE 11th Global Conference on Consumer Electronics (GCCE)_, Osaka, Japan, Oct. 2022.
 1. Jung-Hyok Kwon, Sang-Woo Lee, **Sol-Bee Lee**, and Eui-Jik Kim, "Impact of Correlation-based Feature Selection on Photovoltaic Power Prediction," in _Proc. Technology Innovation Management and Engineering Science International Conference (TIMES-iCON) 2019_, Bangkok, Thailand, Dec. 2019.
 
 
