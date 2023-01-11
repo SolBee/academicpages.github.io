@@ -82,10 +82,14 @@ redirect_from:
  * 웨어러블 디바이스용 무구속 멀티모달 무선에너지공급 기술 개발 (May 2018 - Dec. 2018, Mar. 2019 - Dec. 2019)
  * IoT 웨어러블 디바이스용 저전력 Massive MISO SWIPT 핵심 기술 개발 (Jun. 2018 - Dec. 2018)
  * Multi-Source 에너지 응집 하베스팅 및 초저전력 구동 Self-Powered IoT 디바이스 플랫폼 개발 (Jan. 2018 - Feb. 2018, Aug. 2018)
+ * 머신러닝을 이용한 위치 기반 어린이 안전 시스템 고도화 기술 개발 (Sep. 2020 - Aug. 2021)
  * 복합 전파환경에서의 국민 건강 보호기반 구축 (Feb. 2021 - Dec. 2021, Mar. 2022 - Dec. 2022)
  * 도시 환경에 적합한 소형 UAV 교통 제어 시스템 연구 (Mar. 2022 - May 2022)
+ * 전원 무구속 사물인터넷을 위한 저전력 고효율 무선 정보 및 전력 동시전송 프레임워크 개발 (Mar. 2022 - May 2022)
  * 무선 태그 및 레이더를 활용한 IoT 융합형 보행자 및 운전자 안전 솔루션 개발 (May 2022 - Dec. 2022)
-
+ * 의료 사물인터넷을 위한 부하분산 블록엣지 프레임워크 개발 (Mar. 2022 - Feb. 2023)
+ * ULP-IoT를 위한 딥뉴럴 네트워크 모델 기반 실시간 고정밀 SWIPT 운용 플랫폼 개발 (Mar. 2022 - Feb. 2023) * 
+ 
 
 # International Journal
 1. **Sol-Bee Lee**, Sam Nguyen-Xuan, Jung-Hyok Kwon, and Eui-Jik Kim*, "Multiple Concurrent Slotframe Scheduling for Wireless Power Transfer-Enabled Wireless Sensor Networks," _Sensors_, vol. 22, no. 12, pp. 4520:1-4520:21, Jun. 2022.
