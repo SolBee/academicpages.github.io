@@ -101,10 +101,11 @@ redirect_from:
 1. Sungmo Kim, Jung-Hyok Kwon, **Sol-Bee Lee**, Jaehoon Park, Dongwan Kim*, and Eui-Jik Kim*, "Energy-efficient Resource Directory Update Scheme for Constrained Application Protocol in Internet of Things," _Sensors and Materials_, vol. 30, no. 3, pp. 431-437, Feb. 2018.
 1. Jung-Hyok Kwon, **Sol-Bee Lee**, and Eui-Jik Kim*, "Group-based concurrent transmissions for spatial efficiency in IEEE 802.15. 7 visible light communications," _Applied Mathematical Modelling_, vol. 53, pp. 709-721, Jan. 2018.
 1. Jung-Hyok Kwon, **Sol-Bee Lee**, Jaehoon Park, Kyu-Sung Hwang, Yongseok Lim, and Eui-Jik Kim*, "Adaptive Resource Observation for Congestion Alleviation using Constrained Application Protocol," _International Journal of Engineering and Technology (UAE)_, vol. 7, no. 4.38, pp. 885-887, 2018.
-1. Jung-Hyok Kwon, **Sol-Bee Lee**, Jaehoon Park, and Eui-Jik Kim*, "Association Rule-based Predictive Model for Machine Failure in Industrial Internet of Things," _Journal of Physics: Conference Series_, vol. 892, No. 1, pp. 012008:1-012008:7, May 2017. 
+1. Jung-Hyok Kwon, **Sol-Bee Lee**, Jaehoon Park, and Eui-Jik Kim*, "Association Rule-based Predictive Model for Machine Failure in Industrial Internet of Things," _Journal of Physics: Conference Series_, vol. 892, No. 1, pp. 012008:1-012008:7, May 2017.
 
 
 # International Conference
+<!--1. Jung-Hyok Kwon, **Sol-Bee Lee**, and Eui-Jik Kim, "Electroencephalography-based Fatigue Assessment for Internet of Medical Things System," in_Proc. 2023 18th Asia Pacific International Conference on Information Science and Technology (APIC-IST)_, Fukuoka, Japan, Jun. 2023.!-->
 1. **Sol-Bee Lee**, Jung-Hyok Kwon, and Eui-Jik Kim, "Impact of Slotframe Length on Performance of TSCH-based Wireless Powered Sensor Networks," in _Proc. 2023 13th International Conference on Power, Energy and Electrical Engineering (CPEEE)_, Tokyo, Japan, Feb. 2023.
 1. Sang-Woo Lee, Jung-Hyok Kwon, **Sol-Bee Lee**, Nam Kim, Hyung Do Choi, and Eui-Jik Kim, "Comparative Study of Word Embeddings for Classification of Scientific Article on Human Health Risk of Electromagnetic Fields," in _Proc. 2022 IEEE 11th Global Conference on Consumer Electronics (GCCE)_, Osaka, Japan, Oct. 2022.
 1. Jung-Hyok Kwon, Sang-Woo Lee, **Sol-Bee Lee**, and Eui-Jik Kim, "Impact of Correlation-based Feature Selection on Photovoltaic Power Prediction," in _Proc. Technology Innovation Management and Engineering Science International Conference (TIMES-iCON) 2019_, Bangkok, Thailand, Dec. 2019.
@@ -116,6 +117,9 @@ redirect_from:
 
 
 # Domestic Conference
+1. **이솔비**, 권정혁, 김의직, "전자파 인체 유해성 평가를 위한 논문 데이터베이스 기반 사용자 인터페이스 구축," 한국전자파학회 하계종합학술대회, 2023년 8월.
+1. 권혁돈, **이솔비**, 권정혁, 김의직, "Nexmon 오픈소스를 활용한 Channel State Information 캡처 시스템 개발," 한국전자파학회 동계종합학술대회, 2023년 2월.
+1. 김준호, **이솔비**, 권정혁, 김의직, "양자화 기반 데이터 압축 알고리즘 지원 경량 사물인터넷 디바이스 개발," 한국전자파학회 동계종합학술대회, 2023년 2월.
 1. **이솔비**, 권정혁, 이상우, 권혁돈, 김의직, "무선 전력 통신 네트워크를 위한 듀얼 밴드 슈퍼프레임 구조 연구," 한국통신학회 하계종합학술발표회, 2022년 6월.
 1. **이솔비**, 권정혁, 김의직, "의료 사물인터넷에서 에너지 균형적인 무선전력전송을 위한 소모 에너지 추정 기반 스케줄링 기법 연구," 한국통신학회 동계종합학술발표회, 2022년 2월.
 1. **이솔비**, 권정혁, 김의직, "통학 차량 안전사고 예방을 위한 선형회귀 기반 거리 추정 모델," 한국통신학회 하계종합학술발표회, 2021년 6월.
