@@ -20,7 +20,7 @@ redirect_from:
 
 
 # Education
- * Master-Ph.D. Integrated Course, School of Software, Hallym University (Mar. 2018 - Current)
+ * Master-Ph.D. Integrated Course, School of Software, Hallym University (Mar. 2018 - Feb. 2024)
  * Bachelor of Engineering, Department of Convergence Software, Hallym University (Mar. 2014 - Feb. 2018)
    * Total GPA of 4.16/4.50
 
@@ -37,6 +37,7 @@ redirect_from:
   * Wireless Sensor Networks (WSN)
   * MAC Protocol Design for LP-WPAN
   * Wireless Power Transfer (WPT)
+  * Energy Harvesting
   * Edge Computing
   
 
@@ -53,8 +54,8 @@ redirect_from:
   
   
 # Teaching Assistant
-  * Operating System, Spring 2018
-  * IoT Network, Spring 2020
+  * Operating System, Spring 2018, Spring 2023
+  * IoT Network, Spring 2020, Spring 2023
   * Embedded System, Fall 2022
   
   
