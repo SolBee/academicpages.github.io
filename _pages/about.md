@@ -10,7 +10,7 @@ redirect_from:
 
 
 # Sol-Bee Lee
- * Ph.D. Studuent
+ * Ph.D. Candidate
  * Convergence Information and Communications Laboratory (CIC Lab.)
  * Department of Convergence Software
  * Hallym University
@@ -105,6 +105,7 @@ redirect_from:
 
 
 # International Conference
+1. **Sol-Bee Lee**, Jung-Hyok Kwon, and Eui-Jik Kim, "Q-learning-based Traffic-aware Parent Selection for Wireless Powered Sensor Networks," in _Proc. 2024 6th International Conference on Artificial Intelligence in Information and Communication (ICAIIC)_, Osaka, Japan, Feb. 2024. (Accepted)_
 1. Jung-Hyok Kwon, **Sol-Bee Lee**, and Eui-Jik Kim, "Electroencephalography-based Fatigue Assessment for Internet of Medical Things System," in _Proc. 2023 18th Asia Pacific International Conference on Information Science and Technology (APIC-IST)_, Fukuoka, Japan, Jun. 2023.
 1. **Sol-Bee Lee**, Jung-Hyok Kwon, and Eui-Jik Kim, "Impact of Slotframe Length on Performance of TSCH-based Wireless Powered Sensor Networks," in _Proc. 2023 13th International Conference on Power, Energy and Electrical Engineering (CPEEE)_, Tokyo, Japan, Feb. 2023.
 1. Sang-Woo Lee, Jung-Hyok Kwon, **Sol-Bee Lee**, Nam Kim, Hyung Do Choi, and Eui-Jik Kim, "Comparative Study of Word Embeddings for Classification of Scientific Article on Human Health Risk of Electromagnetic Fields," in _Proc. 2022 IEEE 11th Global Conference on Consumer Electronics (GCCE)_, Osaka, Japan, Oct. 2022.
@@ -112,7 +113,7 @@ redirect_from:
 
 
 # Domestic Journal
-1. 권혁돈, **이솔비**, 권정혁, 김의직, "심층 인공신경망을 활용한 Smoothed RSSI 기반 거리 추정," 사뮬인터넷융복합논문지, vol. 9, no. 2, pp.71-76, 2023년.
+1. 권혁돈, **이솔비**, 권정혁, 김의직, "심층 인공신경망을 활용한 Smoothed RSSI 기반 거리 추정," 사물인터넷융복합논문지, vol. 9, no. 2, pp.71-76, 2023년.
 1. 고하나, **이솔비**, 김의직, "LSTM 모델 기반 리튬이온 배터리의 SOH 예측," 한국디지털콘텐츠학회 논문지, vol. 22, no. 4, pp. 697-703, 2021년 4월.
 
 
@@ -135,8 +136,12 @@ redirect_from:
 
 
 # Patents
-1. 김의직, **이솔비**, 권정혁, "복수의 슬롯프레임 간의 중복을 완화하는 MCSS 프로토콜 기반 시스템," 출원번호: (2022.06.14)
-1. 김의직, **이솔비**, 권정혁, "클러스터 별로 WPT 슬롯프레임의 길이를 결정하는 MCSS 프로토콜 기반 시스템," 출원번호: (2022.06.14)
+1. 김의직, **이솔비**, 권정혁, "전력 상위 및 데이터 상위를 각각 선택하기 위한 두 개의 Q-러닝 에이전트를 구동하는 센서 노드의 동작 방법," 출원번호: 10-2023-0190865
+1. 김의직, **이솔비**, 권정혁, "복수의 HAP 중 전력 상위 및 데이터 상위를 각각 선택하는 복수의 센서 노드가 포함된 시스템의 동작 방법," 출원번호: 10-2023-0190864
+1. 권혁돈, **이솔비**, 권정혁, 김의직, "거리 추정을 수행하는 멀티 입력 DNN 모델을 포함하는 전자장치," 출원번호: 10-2022-0179502 (2022.12.20)
+1. 권혁돈, **이솔비**, 권정혁, 김의직, "인공지능 모델의 입력 데이터에 해당하는 RSSI 값에 대하여 Smoothing 기반 전처리를 수행하는 전자장치," 출원번호: 10-2022-0179501 (2022.12.20)
+1. 김의직, **이솔비**, 권정혁, "클러스터 별로 WPT 슬롯프레임의 길이를 식별하는 무선 전력 전송 기반의 무선 센서 네트워크 시스템," 출원번호: 10-2022-0093590 (2022.07.23)
+1. 김의직, **이솔비**, 권정혁, "클러스터 내 다중 슬롯프레임 간의 중첩을 방지하는 무선 전력 전송 기반의 무선 센서 네트워크 시스템," 출원번호: 10-2022-0093589 (2022.07.23) 
 1. 김의직, 권정혁, **이솔비**, "PRU의 잔여 에너지량을 기반으로 DPS를 할당하는 PTU, 및 WPSN 시스템," 출원번호: 10-2021-0156897 (2021.11.15), **등록번호: 10-25857430000 (2023.09.27)**
 1. 김의직, 권정혁, **이솔비**, "슈퍼프레임 내 슬롯 구성을 기반으로 각 PRU의 잔여 에너지량을 추정하는 PTU, 및 WPSN 시스템," 출원번호: 10-2021-0156896 (2021.11.15),  **등록번호: 10-25857440000 (2023.09.27)**
 1. 김의직, 권정혁, **이솔비**, "Q러닝을 기반으로 승하차 판단 보류 구간을 조정하는 서버의 제어 방법," 출원번호: 10-2021-0133826 (2021.10.08)
