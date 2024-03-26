@@ -6,14 +6,15 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - * Convergence Information and Communications Laboratory (CIC Lab.)
 ---
 
 
 # Sol-Bee Lee
- * Ph.D. Candidate
- * Convergence Information and Communications Laboratory (CIC Lab.)
+ * Research Professor (Ph.D. in Convergence Software)
+ * Smart Computing Laboratory
  * Department of Convergence Software
- * Hallym University
+ * Hallym University, Chuncheon, South Korea
  * Address: Room 1321, School of Software, Hallym University, 1 Hallymdaehak-gil, Chuncheon, Gangwon-do, South Korea (24252)
  * Office: +82-33-248-2398
  * E-mail: thfqla3535@hallym.ac.kr
