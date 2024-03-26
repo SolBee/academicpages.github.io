@@ -107,7 +107,7 @@ redirect_from:
 
 
 # International Conference
-1. **Sol-Bee Lee**, Jung-Hyok Kwon, and Eui-Jik Kim, "Q-learning-based Traffic-aware Parent Selection for Wireless Powered Sensor Networks," in _Proc. 2024 6th International Conference on Artificial Intelligence in Information and Communication (ICAIIC)_, Osaka, Japan, Feb. 2024. _(Accepted)_
+1. **Sol-Bee Lee**, Jung-Hyok Kwon, and Eui-Jik Kim, "Q-learning-based Traffic-aware Parent Selection for Wireless Powered Sensor Networks," in _Proc. 2024 6th International Conference on Artificial Intelligence in Information and Communication (ICAIIC)_, Osaka, Japan, Feb. 2024.
 1. Jung-Hyok Kwon, **Sol-Bee Lee**, and Eui-Jik Kim, "Electroencephalography-based Fatigue Assessment for Internet of Medical Things System," in _Proc. 2023 18th Asia Pacific International Conference on Information Science and Technology (APIC-IST)_, Fukuoka, Japan, Jun. 2023.
 1. **Sol-Bee Lee**, Jung-Hyok Kwon, and Eui-Jik Kim, "Impact of Slotframe Length on Performance of TSCH-based Wireless Powered Sensor Networks," in _Proc. 2023 13th International Conference on Power, Energy and Electrical Engineering (CPEEE)_, Tokyo, Japan, Feb. 2023.
 1. Sang-Woo Lee, Jung-Hyok Kwon, **Sol-Bee Lee**, Nam Kim, Hyung Do Choi, and Eui-Jik Kim, "Comparative Study of Word Embeddings for Classification of Scientific Article on Human Health Risk of Electromagnetic Fields," in _Proc. 2022 IEEE 11th Global Conference on Consumer Electronics (GCCE)_, Osaka, Japan, Oct. 2022.
