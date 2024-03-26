@@ -94,6 +94,7 @@ redirect_from:
  
 
 # International Journal
+1. **Sol-Bee Lee**, Jung-Hyok Kwon, Bu-Young Kim, Woo-Seong Shim, Dongwan Kim, and Eui-Jik Kim, "Block-based Self-organizing TDMA for Reliable VDES in SANETs," KSII Transactions on Internet and Information Systems, vol. 18, no. 2, pp. 511-527, Feb. 2024.
 1. Jung-Hyok Kwon, **Sol-Bee Lee**, and Eui-Jik Kim*, "Q-Learning-based Pending Zone Adjustment for Proximity Classification," _Sensors_, vol. 23, no. 9, pp. 4352:1-4352:16, Apr. 2023.
 1. **Sol-Bee Lee**, Sam Nguyen-Xuan, Jung-Hyok Kwon, and Eui-Jik Kim*, "Multiple Concurrent Slotframe Scheduling for Wireless Power Transfer-Enabled Wireless Sensor Networks," _Sensors_, vol. 22, no. 12, pp. 4520:1-4520:21, Jun. 2022.
 1. **Sol-Bee Lee**, Jung-Hyok Kwon, and Eui-Jik Kim*, "Residual Energy Estimation-Based MAC Protocol for Wireless Powered Sensor Networks," _Sensors_, vol. 21, no. 22, pp. 7617:1-7617:21, Nov. 2021.
@@ -114,7 +115,7 @@ redirect_from:
 
 
 # Domestic Journal
-1. 권혁돈, **이솔비**, 권정혁, 김의직, "심층 인공신경망을 활용한 Smoothed RSSI 기반 거리 추정," 사물인터넷융복합논문지, vol. 9, no. 2, pp.71-76, 2023년.
+1. 권혁돈, **이솔비**, 권정혁, 김의직, "심층 인공신경망을 활용한 Smoothed RSSI 기반 거리 추정," 사물인터넷융복합논문지, vol. 9, no. 2, pp. 71-76, 2023년 4월.
 1. 고하나, **이솔비**, 김의직, "LSTM 모델 기반 리튬이온 배터리의 SOH 예측," 한국디지털콘텐츠학회 논문지, vol. 22, no. 4, pp. 697-703, 2021년 4월.
 
 
