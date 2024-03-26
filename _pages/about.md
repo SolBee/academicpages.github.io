@@ -17,7 +17,7 @@ redirect_from:
  * Address: Room 1321, School of Software, Hallym University, 1 Hallymdaehak-gil, Chuncheon, Gangwon-do, South Korea (24252)
  * Office: +82-33-248-2398
  * E-mail: thfqla3535@hallym.ac.kr
- <!-- - * Convergence Information and Communications Laboratory (CIC Lab.) --!>
+ <!-- - * Convergence Information and Communications Laboratory (CIC Lab.) -->
 
 
 # Education
