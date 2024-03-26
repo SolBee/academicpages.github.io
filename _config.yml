@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sol-Bee Lee / CV"
 title_separator          : "-"
 name                     : &name "Sol-Bee Lee"
-description              : &description "Ph.D. student at Hallym University"
+description              : &description "Research Professor at Hallym University"
 url                      : https://solbee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SolBee/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sol-Bee Lee"
   avatar           : "profile.png"
-  bio              : "Ph.D. student in Convergence Software at Hallym University"
+  bio              : "Research Professor, Smart Computing Laboratory, Hallym University"
   location         : "School of Software, <br>Hallym University, <br>1 Hallymdaehak-gil, <br>Chuncheon Gangwon-do, <br>South Korea (24252)"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
