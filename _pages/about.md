@@ -80,8 +80,7 @@ redirect_from:
  
 # Research Projects
  **[Ongoing Project]**
- * Blockchain-based Vehicle Data Security Framework for Software-defined Vehicle
-   * Principal Investigator (PI)
+ * Blockchain-based Vehicle Data Security Framework for Software-defined Vehicle (PI)   
    * Sponsored by National Research Foundation (NRF)
    * May 2024 ~ Apr. 2027
  * Real-time and High-precision SWIPT Operating Platform Development Using Deep Neural Network Model for ULP-IoT
