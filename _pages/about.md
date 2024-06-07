@@ -80,21 +80,35 @@ redirect_from:
  
 # Research Projects
  * Blockchain-based Vehicle Data Security Framework for Software-defined Vehicle
-  * Sponsored by NRF (National Research Foundation)
-  * May 2024 ~ Apr. 2027
+   * Principal Investigator (PI)
+   * Sponsored by National Research Foundation (NRF)
+   * May 2024 ~ Apr. 2027   
  * Study on the EMF Exposure Control in Smart Society
-  * Jan. 2018 ~ Aug. 2018)
- * National Program for Excellence in SW (Mar. 2018 ~ Dec. 2019)
- * Development of non-binding multimodal wireless power transfer technology for wearable device (May 2018 ~ Dec. 2018, Mar. 2019 ~ Dec. 2019) 
- * Development of lowpower Massive MISO SWIPT for IoT Wearable devices (Jun. 2018 ~ Dec. 2018)
- * Development of multi-source cohesive energy harvesting and ultra-low-power consumption self-powered IoT device platform (Jan. 2018 ~ Feb. 2018, Aug. 2018)
- * Location based Child Safety System Advancement Using Machine Learning (Sep. 2020 ~ Aug. 2021)
- * A Study on Public Health and Safety in a Complex EMF Environment (Feb. 2021 ~ Dec. 2021, Mar. 2022 ~ Dec. 2022)
- * A Research on Small UAV Traffic Control System for Metropolitan Environment (Mar. 2022 ~ May 2022)
- * Low-Power and High-Efficiency SWIPT Framework for Batteryless Internet of Things (Mar. 2022 ~ May 2022)
- * Development of convergence IoT pedestrian and driver safety solution using wireless tags and radar (May 2022 ~ Dec. 2022)
- * Load-Balanced BlockEdge Framework for Internet of Medical Things (Mar. 2022 ~ Feb. 2023)
- * Real-time and High-precision SWIPT Operating Platform Development Using Deep Neural Network Model for ULP-IoT (Mar. 2022 ~ Feb. 2023)
+   * Jan. 2018 ~ Aug. 2018
+ * National Program for Excellence in SW
+   * Mar. 2018 ~ Dec. 2019
+ * Development of non-binding multimodal wireless power transfer technology for wearable device
+   * May 2018 ~ Dec. 2018
+   * Mar. 2019 ~ Dec. 2019 
+ * Development of lowpower Massive MISO SWIPT for IoT Wearable devices
+   * Jun. 2018 ~ Dec. 2018
+ * Development of multi-source cohesive energy harvesting and ultra-low-power consumption self-powered IoT device platform
+   * Jan. 2018 ~ Feb. 2018, Aug. 2018
+ * Location based Child Safety System Advancement Using Machine Learning
+   * Sep. 2020 ~ Aug. 2021
+ * A Study on Public Health and Safety in a Complex EMF Environment
+   * Feb. 2021 ~ Dec. 2021
+   * Mar. 2022 ~ Dec. 2022
+ * A Research on Small UAV Traffic Control System for Metropolitan Environment
+   * Mar. 2022 ~ May 2022
+ * Low-Power and High-Efficiency SWIPT Framework for Batteryless Internet of Things
+   * Mar. 2022 ~ May 2022
+ * Development of convergence IoT pedestrian and driver safety solution using wireless tags and radar
+   * May 2022 ~ Dec. 2022
+ * Load-Balanced BlockEdge Framework for Internet of Medical Things
+   * Mar. 2022 ~ Feb. 2023
+ * Real-time and High-precision SWIPT Operating Platform Development Using Deep Neural Network Model for ULP-IoT
+   * Mar. 2022 ~ Feb. 2023
  
 
 # International Journal
