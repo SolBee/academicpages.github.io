@@ -79,40 +79,51 @@ redirect_from:
 
  
 # Research Projects
+ **[Ongoing Project]**
  * Blockchain-based Vehicle Data Security Framework for Software-defined Vehicle
    * Principal Investigator (PI)
    * Sponsored by National Research Foundation (NRF)
    * May 2024 ~ Apr. 2027
  * Real-time and High-precision SWIPT Operating Platform Development Using Deep Neural Network Model for ULP-IoT
    * Sponsored by National Research Foundation (NRF)
+   * Mar. 2024 ~ Feb. 2025
    * Mar. 2022 ~ Feb. 2023
+  
+ **[Completed Project]**
  * Load-Balanced BlockEdge Framework for Internet of Medical Things
    * Sponsored by National Research Foundation (NRF)
    * Mar. 2022 ~ Feb. 2023
  * Development of convergence IoT pedestrian and driver safety solution using wireless tags and radar
+   * Sponsored by Ministry of SMEs and Startups (MSS)
    * May 2022 ~ Dec. 2022
  * Low-Power and High-Efficiency SWIPT Framework for Batteryless Internet of Things
    * Sponsored by National Research Foundation (NRF)
    * Mar. 2022 ~ May 2022
  * A Research on Small UAV Traffic Control System for Metropolitan Environment
-   * Sponsored by National Research Foundation (NRF)
+   * Sponsored by Ministry Of Education (MOE)
    * Mar. 2022 ~ May 2022
  * A Study on Public Health and Safety in a Complex EMF Environment
    * Sponsored by Institute for Information & communications Technology Promotion (IITP)
-   * Feb. 2021 ~ Dec. 2021
    * Mar. 2022 ~ Dec. 2022
+   * Feb. 2021 ~ Dec. 2021   
  * Location based Child Safety System Advancement Using Machine Learning
    * Sep. 2020 ~ Aug. 2021
  * Development of multi-source cohesive energy harvesting and ultra-low-power consumption self-powered IoT device platform
-   * Jan. 2018 ~ Feb. 2018, Aug. 2018
+   * Sponsored by Ministry of Trade, Industry and Energy (MOTIE)
+   * Aug. 2018
+   * Jan. 2018 ~ Feb. 2018   
  * Development of lowpower Massive MISO SWIPT for IoT Wearable devices
-   * Jun. 2018 ~ Dec. 2018
+   * Sponsored by Ministry of Trade, Industry and Energy (MOTIE)
+   * Nov. 2018 ~ Dec. 2018
  * Development of non-binding multimodal wireless power transfer technology for wearable device
-   * May 2018 ~ Dec. 2018
-   * Mar. 2019 ~ Dec. 2019
+   * Sponsored by Ministry of Trade, Industry and Energy (MOTIE)
+   * Mar. 2019 ~ Aug. 2019
+   * Sep. 2018 ~ Dec. 2018   
  * National Program for Excellence in SW
+   * Sponsored by Ministry of Science and ICT (MSIT)
    * Mar. 2018 ~ Dec. 2019
  * Study on the EMF Exposure Control in Smart Society
+   * Sponsored by Ministry of Science and ICT (MSIT)
    * Jan. 2018 ~ Aug. 2018
  
 
