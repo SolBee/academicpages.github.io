@@ -140,6 +140,7 @@ redirect_from:
 
 
 # International Conference
+1. Inhyeok Kang, **Sol-Bee Lee**, Jung-Hyok Kwon, and Eui-Jik Kim, "Traffic-aware GTS Allocation Interval Determination for IEEE 802.15.4 DSME Networks," in _Proc. 2024 20th IEEE International Conference on e-Science (e Science)_, Osaka, Japan, Sep. 2024.
 1. **Sol-Bee Lee**, Jung-Hyok Kwon, and Eui-Jik Kim, "Q-learning-based Traffic-aware Parent Selection for Wireless Powered Sensor Networks," in _Proc. 2024 6th International Conference on Artificial Intelligence in Information and Communication (ICAIIC)_, Osaka, Japan, Feb. 2024.
 1. Jung-Hyok Kwon, **Sol-Bee Lee**, and Eui-Jik Kim, "Electroencephalography-based Fatigue Assessment for Internet of Medical Things System," in _Proc. 2023 18th Asia Pacific International Conference on Information Science and Technology (APIC-IST)_, Fukuoka, Japan, Jun. 2023.
 1. **Sol-Bee Lee**, Jung-Hyok Kwon, and Eui-Jik Kim, "Impact of Slotframe Length on Performance of TSCH-based Wireless Powered Sensor Networks," in _Proc. 2023 13th International Conference on Power, Energy and Electrical Engineering (CPEEE)_, Tokyo, Japan, Feb. 2023.
@@ -148,6 +149,8 @@ redirect_from:
 
 
 # Domestic Journal
+1. **이솔비**, 권정혁, 나화진, 김경태, 문형진, 김부영, 심우성, 김동완, 김의직, "해상 통신에서 지상파 VHF 데이터 교환을 위한 간섭 인지 기반 자원 할당 기법," 사물인터넷융복합논문지, vol. 10, no. 4, pp. 109-115, 2024년 8월.
+1. 권혁돈, 권정혁, **이솔비**, 김의직, "채널 상태 정보를 활용한 LoS/NLoS 식별 기반 인간 행동 인식 시스템," 사물인터넷융복합논문지, vol. 10, no. 3, pp. 57-64, 2024년 6월.
 1. 권혁돈, **이솔비**, 권정혁, 김의직, "심층 인공신경망을 활용한 Smoothed RSSI 기반 거리 추정," 사물인터넷융복합논문지, vol. 9, no. 2, pp. 71-76, 2023년 4월.
 1. 고하나, **이솔비**, 김의직, "LSTM 모델 기반 리튬이온 배터리의 SOH 예측," 한국디지털콘텐츠학회 논문지, vol. 22, no. 4, pp. 697-703, 2021년 4월.
 
